@@ -3,7 +3,7 @@
 This project is built for assignment purpose.
 
 This project is deployed on:
-TBA
+[robotic-owl.vercel.app](https://robotic-owl.vercel.app/)
 
 ## How to run
 
