@@ -11,7 +11,7 @@ function Grid({ children, gridPosition }: PropsWithChildren<Props>) {
       {GRID.map((value, index) => (
         <div
           key={index}
-          className="w-20 h-20 outline-dashed outline-2 outline-orange-800"
+          className="w-20 h-20 outline-dashed outline-2 outline-orange-800 flex items-center justify-center"
         >
           {value.x === gridPosition.x && value.y === gridPosition.y
             ? children
